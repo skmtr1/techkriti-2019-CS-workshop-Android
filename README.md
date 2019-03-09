@@ -2,7 +2,9 @@
 
 ## Android Security
 
-Welcome to Techkriti 2019: Cyber Security Workshop. This repository contains the real Android malware sample. This hands-on session mainly deals with static analysis techniques to identify security flaws in an Android App or extracting useful information from the malware samples.
+Welcome to Techkriti 2019: Cyber Security Workshop. This repository contains the real Android malware sample. This hands-on session mainly deals with static analysis techniques to identify security flaws in an Android App or extracting useful information from the malware samples. All the sample to be used for this session are in the samples subdirectory of this repository.
+
+> **Acknowledge** All the malware samples have taken from the [VirusShare](https://virusshare.com/).
 
 ## Tools Required
 
