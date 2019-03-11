@@ -1,4 +1,4 @@
-# Techkriti 2019: Cyber Security Workshope
+# Techkriti 2019: Cyber Security Workshop
 
 ## Android Security
 
